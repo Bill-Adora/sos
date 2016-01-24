@@ -1,1 +1,2 @@
-This is how I chose to learn git.
+This is how I chose to learn git. 
+Just a litle more modification.
